@@ -1,0 +1,38 @@
+.body {
+  display: flex;
+}
+
+#button-container {
+  display: flex;
+  align-items: right;
+  justify-content: flex-end;
+  width: 900px;
+  height: 100px;
+  margin-top: 55px;
+  position: relative;;
+}
+
+a {
+  width: 60px;
+  height: 60px;
+  background: none;
+  border: none;
+  margin-left: 20px;
+  border-radius: 50%;
+  opacity: 0.5;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+.github {
+  padding-top: 2px;
+  width: 60px;
+  height: 60px;
+}
+
+.linkedin {
+  width: 65px;
+  height: 65px;
+}
