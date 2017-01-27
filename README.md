@@ -1,4 +1,5 @@
-# onBelay
+# Paul the Alien
+[Play the live game here!][PaulGame]
 
 [Paul the Alien][PaulGame] is a basic platformer game made in Javascript. The images are made by Kenney Vleugels and used legally under a CC0 license.  
 
@@ -46,3 +47,4 @@ Platformer graphics (Deluxe) by Kenney Vleugels (www.kenney.nl)
 License (CC0) http://creativecommons.org/publicdomain/zero/1.0/
 
 [demopage]: ./docs/demopage.png "Demo Page"
+[PaulGame]: https://tom-ogasawara.github.io "Live site"
