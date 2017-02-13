@@ -1,5 +1,5 @@
 # Paul the Alien
-[Play the live game here!][PaulGame]
+[Play the live game here!](tom-ogasawara.com/paul)
 
 Paul the Alien is a basic platformer game made in Javascript. The images are made by Kenney Vleugels and used legally under a CC0 license.  
 
